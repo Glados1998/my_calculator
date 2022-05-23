@@ -23,7 +23,8 @@ body {
     font-size: 2rem;
     border: 1.2px solid black;
     outline: none;
-    background-color: #f1f1f1;
+    background-color: #8D878C;
+    color: white;
 }
 
 .calculator-body > .operatorBtn {
@@ -57,4 +58,10 @@ body {
     font-size: 2rem;
     font-weight: bold;
     color: #f1f1f1;
+}
+
+.credits {
+    text-align: center;
+    margin-top: -90px;
+    padding: 10px;
 }
